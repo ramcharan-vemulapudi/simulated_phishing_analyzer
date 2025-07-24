@@ -1,4 +1,3 @@
-# simulated_phishing_analyzer
 # Simulated Phishing Email Analyzer (SPEA)
 
 ## ⚠️ IMPORTANT DISCLAIMER ⚠️
