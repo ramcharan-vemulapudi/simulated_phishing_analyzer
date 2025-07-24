@@ -27,7 +27,7 @@ The primary goal of this project is to enhance cybersecurity awareness by demons
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ramcharan-vemulapudi/simulated-phishing-analyzer.git](https:/ramcharan-vemulapudi/github.com//simulated-phishing-analyzer.git)
+    git clone https://github.com/ramcharan-vemulapudi/simulated-phishing-analyzer.git
     cd simulated-phishing-analyzer
     ```
 
