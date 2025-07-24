@@ -27,7 +27,7 @@ The primary goal of this project is to enhance cybersecurity awareness by demons
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ramcharan-vemulapudi/simulated-phishing-analyzer.git](https://github.com/YourGitHubUsername/simulated-phishing-analyzer.git)
+    git clone [https://github.com/ramcharan-vemulapudi/simulated-phishing-analyzer.git](https:/ramcharan-vemulapudi/github.com//simulated-phishing-analyzer.git)
     cd simulated-phishing-analyzer
     ```
 
@@ -94,12 +94,5 @@ Your Bank Team
 * **Defensive Cybersecurity:** Focusing on identifying threats rather than creating them.
 * **User Education:** Designing a tool that provides actionable insights.
 
-## Possible Future Improvements (Ideas for you!)
-
-* **More Sophisticated Link Analysis:** Implement basic parsing of HTML to extract actual `href` attributes vs. visible link text. (More complex for a beginner but a good next step).
-* **Domain Squatting/Typosquating Check:** A more robust check for similar legitimate domains (e.g., `paypal.com` vs `paypa1.com`). Requires a list of known legitimate domains.
-* **AI/ML Integration (Advanced):** For more experienced users, explore using simple machine learning models (e.g., Naive Bayes) for text classification.
-* **GUI Interface:** Develop a simple graphical user interface using Tkinter or PyQt for a more user-friendly experience.
-* **Rule Configuration:** Allow users to easily add or modify rules via a configuration file.
 
 ---
